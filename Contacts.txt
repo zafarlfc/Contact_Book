@@ -1,0 +1,32 @@
+benedict Cumberbatch 3674747 40 211
+brie Larson 46789234 100 333
+chris Evans 44567898 100 234
+chris Hemsworth 46089636 1500 234
+chris Pratt 6836476 30 867
+elizabeth Oleson 7389499 30 288
+gwenth Paltrow 2939920 29 293
+jermy Renner 48308856 40 394
+karen Gillan 737899 20 878
+mark Ruffalo 6468378 78 378
+paul Rudd 9723939 38 280
+robert Downey 45317898 50 223
+scarlett Johanson 42564890 30 323
+tom Holland 5636567 19 376
+josh brolin 5567788 40 768
+finn wolfhard 7389483 16 333
+noah schnapp 7934899 16 343
+gaten matarazzo 7439853 16 345
+millie brown 4354446 15 654
+caleb mclaughlin 2443423 16 748
+David Harbour 44324254 40 390
+Natalia dyer 3747384 20 388
+Sadie sink 9834892 15 747
+winona ryder 2423434 40 345
+joe keery 3434553 20 355
+
+
+
+
+
+
+
